@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am reve2se 
 
-<img align="right" alt="img" src="https://github.com/reve2se/reve2se/blob/main/new_bg.png" width="50%" height="auto" />
+<!-- <img align="right" alt="img" src="https://github.com/reve2se/reve2se/blob/main/new_bg.png" width="50%" height="auto" /> -->
 
 
 #### :computer: Programming languages and tools: 
